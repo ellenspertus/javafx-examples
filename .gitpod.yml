@@ -1,0 +1,7 @@
+# https://stackoverflow.com/a/58855118/631051
+
+image:
+  file: .gitpod.Dockerfile
+
+ports:
+- port: 6080
